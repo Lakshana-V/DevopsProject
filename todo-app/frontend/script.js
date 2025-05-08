@@ -54,3 +54,4 @@ async function toggleTodo(id) {
 
 document.addEventListener('DOMContentLoaded', fetchTodos);
 // updated script.js
+// updated2 script.js
